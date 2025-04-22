@@ -1,0 +1,1 @@
+export default function DashboardLanding() { return <div className='p-6'>Dashboard Landing Page</div>; }

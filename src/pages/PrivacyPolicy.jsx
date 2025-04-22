@@ -1,0 +1,1 @@
+export default function PrivacyPolicy() { return <div className='p-6'>Privacy Policy</div>; }
